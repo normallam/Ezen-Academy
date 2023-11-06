@@ -1,0 +1,10 @@
+Attendance - 출결
+Board- 게시판
+Employee - 강사등록
+lesson - 수업등록
+signup - 직원 회원가입
+student - 학생관리
+Instructor - 직원 개인 관리자 페이지
+
+
+studentPage : 개별정보출력함수 추가.
